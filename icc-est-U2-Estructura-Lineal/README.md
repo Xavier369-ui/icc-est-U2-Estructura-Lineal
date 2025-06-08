@@ -1,18 +1,56 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Práctica de Algoritmos de Estructura Lineal
 
-## Folder Structure
+## 📌 Información General
 
-The workspace contains two folders by default, where:
+- **Título:** Práctica de Algoritmos de Estructura Lineal
+- **Asignatura:** Estructura de Datos
+- **Carrera:** Computación
+- **Estudiante:** [Xavier Fajardo]
+- **Fecha:** [08/06/2025]
+- **Profesor:** Ing. Pablo Torres
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🛠️ Descripción
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Este proyecto implementa y compara diferentes algoritmos de Estructura Lineales en Java, incluyendo:
+- Stack - Pilas
+- Stacks - Pilas
+- Queue - Colas
+- QueueG - Colas
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+---
+
+## 🚀 Ejecución
+
+Para ejecutar el proyecto:
+
+1. Compila el código:
+    ```bash
+    javac App.java
+    ```
+2. Ejecuta la aplicación:
+    ```bash
+    java App
+    ```
+
+---
+
+## 🧑‍💻 Ejemplo de Practica
+#Ejercicio 01: Validacion de Signos
+     
+• Ejemplo 1:
+ o Input: "([]){}"
+ ```
+---
+o Output: true
+• Ejemplo 2:
+o Input: "({)}"
+o Output: false
+# Ejercicio 02: Ordenar un Stack
+Ejemplo:
+• Input: (tope) 5->1->4->2
+• Output: (tope) 1->2->4->5
